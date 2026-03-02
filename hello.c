@@ -2,7 +2,7 @@
 
 void main () {
 
-    printf("Dioken");
+    printf("Dioporz");
 }
 
 //Coddue!
