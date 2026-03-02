@@ -2,7 +2,11 @@
 
 void main () {
 
+<<<<<<< HEAD
     printf("Dioboi");
+=======
+    printf("Dioporz");
+>>>>>>> modifica
 }
 
 //Coddue!
